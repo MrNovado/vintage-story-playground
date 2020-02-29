@@ -1,0 +1,14 @@
+{
+	"type": "code",
+	"name": "Playground",
+	"modid": "playground",
+	"version": "0.0.0",
+	
+	"description" : "Playground mod",
+	"website": "https://github.com/MrNovado/vintage-story-playground",
+	"authors": [ "mrnovado" ],
+	
+	"dependencies": {
+		"game": "1.12.0"
+	}
+}
