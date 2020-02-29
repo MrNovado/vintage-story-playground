@@ -9,6 +9,6 @@
 	"authors": [ "mrnovado" ],
 	
 	"dependencies": {
-		"game": "1.12.0"
+		"game": "1.12.5"
 	}
 }

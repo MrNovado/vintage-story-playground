@@ -5,7 +5,8 @@ using Vintagestory.API.Server;
 [assembly: ModInfo("Playground",
     Description = "Playground mod",
     Website = "https://github.com/MrNovado/vintage-story-playground",
-    Authors = new[] { "mrnovado" })]
+    Authors = new[] { "mrnovado" },
+    Version = "1.12.5"),]
 
 namespace Playground
 {
